@@ -1,5 +1,5 @@
-# asx_data_daily
-Daily Stock data
+# Free ASX Daily Data From 1990
+Daily Australia Stock data 
 
 # data directory
 
